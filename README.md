@@ -2,14 +2,15 @@
 
 <p>Welcome to my page! </br> 👋 Hi, I'm Rajkumar V, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/10597/10597864.png" width="13"/> <b>Chennai, TamilNadu</b>. </p>
 
-Welcome to my GitHub! I'm a motivated and curious developer with a foundation in Identity and Access Management (IAM) and a growing expertise in full stack web development.
-<h3>Things I code with</h3>
+Welcome to my GitHub! I have 2 years of experience in Identity and Access Management (IAM), currently transitioning into Full Stack Development. Proficient in web technologies, back-end programming, and cloud-based solutions, seeking to leverage expertise in newly development coding skills in a Full Stack Developer role. 
+
 ## 💼 Professional Experience
 
 ### Identity and Access Management – **NatWest Group**
 - Managed user provisioning and de-provisioning processes.
 - Conducted security audits to ensure compliance with industry standards.
 - Implemented Role-Based Access Control (RBAC) to manage user access efficiently.
+<h3>Things I code with</h3>
 <p>
   <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
