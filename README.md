@@ -1,7 +1,15 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Rajumar, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/10597/10597864.png" width="13"/> <b>Chennai, TamilNadu</b>. </p>
+<p>Welcome to my page! </br> 👋 Hi, I'm Rajkumar V, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/10597/10597864.png" width="13"/> <b>Chennai, TamilNadu</b>. </p>
+
+Welcome to my GitHub! I'm a motivated and curious developer with a foundation in Identity and Access Management (IAM) and a growing expertise in full stack web development.
 <h3>Things I code with</h3>
+## 💼 Professional Experience
+
+### Identity and Access Management – **NatWest Group**
+- Managed user provisioning and de-provisioning processes.
+- Conducted security audits to ensure compliance with industry standards.
+- Implemented Role-Based Access Control (RBAC) to manage user access efficiently.
 <p>
   <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -16,3 +24,8 @@
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </p>
+## 📫 Contact Me
+
+- **Email**: rajkumarv31082000@gmail.com
+- **Phone**: +91 9345979729
+- **Location**: Chennai, Tamil Nadu
